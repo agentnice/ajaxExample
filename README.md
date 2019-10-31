@@ -1,1 +1,1 @@
-# how to use xmlHttpRequest
+# Simple example how to use ajax 
