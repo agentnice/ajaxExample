@@ -1,1 +1,1 @@
-# fs
+# how to use xmlHttpRequest
